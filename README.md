@@ -87,6 +87,6 @@
 ### 📦 Estatísticas Extras
 
 <p align="center">
-    <img src="https://img.shields.io/badge/📦_Repositórios-09-red?style=for-the-badge">
+    <img src="https://img.shields.io/badge/📦_Repositórios-05-red?style=for-the-badge">
     <img src="https://img.shields.io/badge/📜_Gists-09-yellow?style=for-the-badge">
 </p>
