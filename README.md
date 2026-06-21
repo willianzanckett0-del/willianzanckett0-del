@@ -85,6 +85,12 @@
 ### 📊 Estatísticas Extras
 
 <p>
-  <img src="https://img.shields.io/badge/Gists-9-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projetos-9-red?style=for-the-badge" />
+    <img
+        src="https://img.shields.io/badge/Repositórios-9-1a1b27?style=for-the-badge"
+        alt="Repositórios"
+    />
+    <img
+        src="https://img.shields.io/badge/Gists-9-414868?style=for-the-badge"
+        alt="Gists"
+    />
 </p>
