@@ -82,9 +82,9 @@
 
 </p>
 
-### 📜 Gists
+### 📊 Estatísticas Extras
 
-<img
-  src="https://img.shields.io/badge/Gists-9-yellow?style=for-the-badge"
-  alt="Gists"
-/>
+<p>
+  <img src="https://img.shields.io/badge/Gists-9-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projetos-9-red?style=for-the-badge" />
+</p>
